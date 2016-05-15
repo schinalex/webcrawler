@@ -1,0 +1,24 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "gets alerts from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schinalex/webcrawler.git"
+  },
+  "author": "Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schinalex/webcrawler/issues"
+  },
+  "homepage": "https://github.com/schinalex/webcrawler#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
